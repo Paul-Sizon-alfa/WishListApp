@@ -23,7 +23,7 @@ export default function App() {
 
             {/*{Today's tasks}*/}
             <View style={styles.tasksWrapper}>
-                <Text style={styles.sectionTitle}> My Wish List </Text>
+                <Text style={styles.sectionTitle}> My Wish List! </Text>
 
                 <View style={styles.items}>
                     {/*This is where tasks will go*/}
